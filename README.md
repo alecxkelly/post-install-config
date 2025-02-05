@@ -1,4 +1,3 @@
-<img width="950" alt="uncheck users to create a ticket" src="https://github.com/user-attachments/assets/537cd58c-ce34-4d15-ad85-c054ea789d16" /><p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
