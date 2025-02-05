@@ -62,7 +62,6 @@ Next, Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Netwo
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img width="955" alt="agents-teams" src="https://github.com/user-attachments/assets/e5701835-f627-4c9c-9d8b-6b3404b5f4d5"/>
 <img width="1440" alt="add team" src="https://github.com/user-attachments/assets/47bcbc52-9969-4483-b366-385c62a87ec3"/>
 <img width="1440" alt="online team added" src="https://github.com/user-attachments/assets/093993e0-ad4f-4ec8-b0f6-40647784a620"/>
