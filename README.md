@@ -99,7 +99,7 @@ Configure Agents (workers) Admin Panel -> Agents -> I Added a New agent -> Jane 
 <img width="955" alt="agents and their depts" src="https://github.com/user-attachments/assets/ddc1b65b-873e-4bf1-81a5-53ee904e5c0e"/>
 </p>
 <p>
-Now, we can configured Os to allow anyone to create tickets, Admin Panel -> Settings -> User Settings (UNCHECK: unregistered users can create tickets) -> Registration Required: Require registration and login to create tickets
+Now, we configured Os to allow anyone to create tickets, Admin Panel -> Settings -> User Settings (UNCHECK: unregistered users can create tickets) -> Registration Required: Require registration and login to create tickets
 </p>
 <br />
 
